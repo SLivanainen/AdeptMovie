@@ -1,0 +1,7 @@
+{
+  "name": "Adept Cinema",
+  "description": "Mobile-first movie streaming information web app with Netflix-style dark UI, movie details, categories, search, user profiles, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
